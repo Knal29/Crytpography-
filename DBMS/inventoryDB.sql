@@ -12,3 +12,4 @@ select * from products where price<300;
 select * from products where quantity>40;
 update products set price=2500 WHERE name='Table';
 delete from products where name='BRU Gold';
+select * from products;
